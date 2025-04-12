@@ -17,7 +17,7 @@ spec:
         "kubernetes.io/os": linux
       containers:
         - name: ai-service
-          image: meetpatel1389/ai-service:latest
+          image: mohitsp21/ai-service:latest
           ports:
             - containerPort: 5001
           env:
