@@ -173,5 +173,5 @@ kubectl get services
 | Vitrual- worker   | [DOCKER HUB LINK ](https://hub.docker.com/r/mohitsp21/virtual-worker)       |
 
 # Demo video
-[Click_Here_to_Watch_Video](https://youtu.be/B1EGbN0Xy8s)
+[Click_Here_to_Watch_Video]()
 
