@@ -162,15 +162,15 @@ kubectl get services
 # Table of Docker Images
 
 | Service          | Docker Image Link   |
-|------------------|---------------------|
-| Store-Front       |  [DOCKER HUB LINK](https://hub.docker.com/r/mohitsp21/store-front)    |
-| Store-Admin     |  [DOCKER HUB LINK ](https://hub.docker.com/r/mohitsp21/store-admin)   |
-| Order-Service     |  [DOCKER HUB LINK](https://hub.docker.com/r/mohitsp21/order-service)    |
-| Product-Service   | [Docker Hub Link  ](https://hub.docker.com/r/mohitsp21/product-service)   |
-| Makeline-Service  | [Docker Hub Link](https://hub.docker.com/r/mohitsp21/makeline-service/tags)     |
-| AI-Service        | [Docker Hub Link](https://hub.docker.com/r/mohitsp21/ai-service)     |
-| Vitrual-customer    |  [DOCKER HUB LINK ](https://hub.docker.com/r/mohitsp21/virtual-customer)   |
-| Vitrual- worker    | [ DOCKER HUB LINK ](https://hub.docker.com/r/mohitsp21/virtual-worker)   |
+|-------------------|---------------------|
+| Store-Front       | [DOCKER HUB LINK](https://hub.docker.com/r/mohitsp21/store-front)           |
+| Store-Admin       | [DOCKER HUB LINK](https://hub.docker.com/r/mohitsp21/store-admin)           |
+| Order-Service     | [DOCKER HUB LINK](https://hub.docker.com/r/mohitsp21/order-service)         |
+| Product-Service   | [Docker HUB LINK](https://hub.docker.com/r/mohitsp21/product-service)       |
+| Makeline-Service  | [Docker Hub LINK](https://hub.docker.com/r/mohitsp21/makeline-service/tags) |
+| AI-Service        | [Docker HUB LINK](https://hub.docker.com/r/mohitsp21/ai-service)            |
+| Vitrual-customer  | [DOCKER HUB LINK ](https://hub.docker.com/r/mohitsp21/virtual-customer)     |
+| Vitrual- worker   | [DOCKER HUB LINK ](https://hub.docker.com/r/mohitsp21/virtual-worker)       |
 
 # Demo video
 [Click_Here_to_Watch_Video](https://youtu.be/B1EGbN0Xy8s)
