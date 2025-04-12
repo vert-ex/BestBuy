@@ -121,14 +121,14 @@ kubectl get services
    
    | Service            | Description                                | Github Repo                                                                 |
    |--------------------|--------------------------------------------|-----------------------------------------------------------------------------|
-   | `store-front`      | Web app for customers to place orders      | [store-front-A2](https://github.com/meetpatel1389/store-front-A2.git)       |
-   | `store-admin`      | Web app for store employees                | [store-admin-A2](https://github.com/meetpatel1389/store-admin-A2.git)       |
-   | `order-service`    | Handles order placement                    | [order-service-A2](https://github.com/meetpatel1389/order-service-A2.git)   |
-   | `product-service`  | Handles CRUD operations on products        | [product-service-A2](https://github.com/meetpatel1389/product-service-A2.git) |
-   | `makeline-service` | Processes and completes orders             | [makeline-service-A2](https://github.com/meetpatel1389/makeline-service-A2.git) |
-   | `ai-service`       | AI-based product descriptions and images   | [ai-service-A2](https://github.com/meetpatel1389/ai-service-A2.git)         |
-   | `virtual-customer` | Simulates customer order creation          | [virtual-customer-A2](https://github.com/meetpatel1389/virtual-customer-A2.git) |
-   | `virtual-worker`   | Simulates order completion                 | [virtual-worker-A2](https://github.com/meetpatel1389/virtual-worker-A2.git)  |
+   | `store-front`      | Web app for customers to place orders      | [store-front-bestbuy](https://github.com/vert-ex/store-front-bestbuy)       |
+   | `store-admin`      | Web app for store employees                | [store-admin-bestbuy](https://github.com/vert-ex/store-admin-bestbuy)       |
+   | `order-service`    | Handles order placement                    | [order-main](https://github.com/vert-ex/order-main)                         |
+   | `product-service`  | Handles CRUD operations on products        | [product-service](https://github.com/vert-ex/product-service)               |
+   | `makeline-service` | Processes and completes orders             | [makeline-service](https://github.com/vert-ex/makeline-service)             |
+   | `ai-service`       | AI-based product descriptions and images   | [AI-service](https://github.com/vert-ex/AI-service)                         |
+   | `virtual-customer` | Simulates customer order creation          | [virtual-customer](https://github.com/vert-ex/virtual-customer)             |
+   | `virtual-worker`   | Simulates order completion                 | [virtual-worker](https://github.com/vert-ex/virtual-worker)                 |
 ## Implement a CI/CD Pipeline for Each Microservice
 1. **Fork the all the above Repositories**
 2. 2. **Set Up Secrets**
